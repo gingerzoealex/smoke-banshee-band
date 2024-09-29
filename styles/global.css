@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: black;
+  display: flex;
+  align-content: center;
+
+  #root {
+    margin: 2rem auto 0;
+  }
+}
