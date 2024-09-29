@@ -1,6 +1,4 @@
-import styles from "./SmokeBanshee.modules.css";
-
-import smokeBansheeImage from "/smoke-banshee-logo-black.jpeg";
+import smokeBansheeImage from "./smoke-banshee-logo-black.jpeg";
 
 function SmokeBanshee() {
   return (
