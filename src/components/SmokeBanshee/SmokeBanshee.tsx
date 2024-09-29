@@ -9,7 +9,7 @@ function SmokeBanshee() {
       >
         <img
           alt="Smoke Banshee band logo"
-          style={{ height: "70vh" }}
+          style={{ width: "70vw" }}
           src={smokeBansheeImage}
         />
       </a>
